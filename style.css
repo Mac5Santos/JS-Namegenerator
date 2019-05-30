@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+button{
+	margin-top: 20px;
+	margin-left: 300px;
+}
+body{
+	background-image: url("background.jpg");
+	font-family: 'Lobster', cursive;
+}
+#terry{
+	display: none;
+	width: 50%;
+	margin-left: 180px;
+}
+#o{
+	text-align: center;
+	font-size: 50px;
+}
